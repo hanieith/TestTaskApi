@@ -7,9 +7,8 @@ response_dict = json.loads(response.content)
 
 def get_address(coordinates):
     response = requests.get(
-        f'https://api.i-mobility.at/routing/api/v1/nearby_address?latitude={coordinates[0]}&longitude={coordinates[1]}')
+        f'https://api.i-mobility.at/routing/api/v1/nearby_address?latitude={coordinates[1]}&longitude={coordinates[0]}')
     clean_data = json.loads(response.content)
-    print(clean_data)
     return clean_data['data']['name']
 
 
