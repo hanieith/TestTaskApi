@@ -5,14 +5,16 @@ response = requests.get('https://wegfinder.at/api/v1/stations')
 stations = json.loads(response.content)
 
 
-def get_address(coordinates):
+# Функция для получения адреса по API с помощью координат
+def get_address(coordinates: list) -> str:
     response = requests.get(
         f'https://api.i-mobility.at/routing/api/v1/nearby_address?latitude={coordinates[1]}&longitude={coordinates[0]}')
     clean_data = json.loads(response.content)
     return clean_data['data']['name']
 
 
-def serializer(data):
+# Сериализатор для получения нужной  структуры
+def serializer(data:dict) -> dict:
     coordinates = [data['longitude'], data['latitude']]
     clean_data = {
         'id': data['id'],
@@ -29,12 +31,16 @@ def serializer(data):
     return clean_data
 
 
-def main():
+# Получение списка станций, проверка на нулевое количество bikes, сортировка по количеству свободных
+def get_station_list() -> list:
     result = list()
     for station in stations:
         if station['free_bikes'] > 0:
             result.append(serializer(station))
     return sorted(result, reverse=True, key=lambda x: x['free_bikes'])
 
-for _ in main():
-    print(_, sep='/n')
+
+# Вывод для откладки кода
+if __name__ == '__main__':
+    for _ in get_station_list():
+        print(_, sep='/n')
