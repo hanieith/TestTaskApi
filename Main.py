@@ -24,20 +24,20 @@ def serializer(data:dict) -> dict:
         'boxes': data['boxes'],
         'free_boxes': data['free_boxes'],
         'free_bikes': data['free_bikes'],
-        'free_ratio': data['free_boxes'] / data['free_bikes'] if data['free_bikes'] > 0 else 0,
+        'free_ratio': round(data['free_boxes'] / data['free_bikes'] if data['free_bikes'] > 0 else 0, 2),
         'coordinates': coordinates,
         'address': get_address(coordinates),
     }
     return clean_data
 
 
-# Получение списка станций, проверка на нулевое количество bikes, сортировка по количеству свободных
+# Получение списка станций, проверка на нулевое количество bikes и сортировка по имени и по количеству свободных bikes
 def get_station_list() -> list:
     result = list()
     for station in stations:
         if station['free_bikes'] > 0:
             result.append(serializer(station))
-    return sorted(result, reverse=True, key=lambda x: x['free_bikes'])
+    return sorted(sorted(result, key=lambda x: x['name']), reverse=True, key=lambda x: x['free_bikes'])
 
 
 # Вывод для откладки кода
