@@ -2,7 +2,7 @@ import requests
 import json
 
 response = requests.get('https://wegfinder.at/api/v1/stations')
-response_dict = json.loads(response.content)
+stations = json.loads(response.content)
 
 
 def get_address(coordinates):
@@ -29,5 +29,12 @@ def serializer(data):
     return clean_data
 
 
-if __name__ == '__main__':
-    print(serializer(response_dict[0]))
+def main():
+    result = list()
+    for station in stations:
+        if station['free_bikes'] > 0:
+            result.append(serializer(station))
+    return sorted(result, reverse=True, key=lambda x: x['free_bikes'])
+
+for _ in main():
+    print(_, sep='/n')
