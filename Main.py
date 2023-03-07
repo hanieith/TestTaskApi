@@ -23,7 +23,7 @@ def serializer(data:dict) -> dict:
         'boxes': data['boxes'],
         'free_boxes': data['free_boxes'],
         'free_bikes': data['free_bikes'],
-        'free_ratio': round(data['free_boxes'] / data['free_bikes'] if data['free_bikes'] > 0 else 0, 2),
+        'free_ratio': round(data['free_boxes'] / data['free_bikes'], 2),
         'coordinates': coordinates,
         'address': get_address(coordinates),
     }
