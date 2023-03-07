@@ -4,7 +4,6 @@ import json
 response = requests.get('https://wegfinder.at/api/v1/stations')
 stations = json.loads(response.content)
 
-
 # Функция для получения адреса по API с помощью координат
 def get_address(coordinates: list) -> str:
     response = requests.get(
