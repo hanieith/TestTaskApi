@@ -1,11 +1,19 @@
 import requests
 import json
+import logging.config
+
+from settings import logger_config
+
+logging.config.dictConfig(logger_config)
+logger = logging.getLogger('app_logger')
 
 response = requests.get('https://wegfinder.at/api/v1/stations')
 stations = json.loads(response.content)
 
+
 # Функция для получения адреса по API с помощью координат
 def get_address(coordinates: list) -> str:
+    logger.debug('Enter to the get_address()')
     response = requests.get(
         f'https://api.i-mobility.at/routing/api/v1/nearby_address?latitude={coordinates[1]}&longitude={coordinates[0]}')
     clean_data = json.loads(response.content)
@@ -13,7 +21,8 @@ def get_address(coordinates: list) -> str:
 
 
 # Сериализатор для получения нужной  структуры
-def serializer(data:dict) -> dict:
+def serializer(data: dict) -> dict:
+    logger.debug('Enter to the serializer()')
     coordinates = [data['longitude'], data['latitude']]
     clean_data = {
         'id': data['id'],
@@ -32,6 +41,7 @@ def serializer(data:dict) -> dict:
 
 # Получение списка станций, проверка на нулевое количество bikes и сортировка по имени и по количеству свободных bikes
 def get_station_list() -> list:
+    logger.warning('Enter to the get_station_list')
     result = list()
     for station in stations:
         if station['free_bikes'] > 0:
