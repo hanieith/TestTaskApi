@@ -1,10 +1,5 @@
 import logging
 
-
-# class NewFunctionFilter(logging.Filter):
-#    def filter(self, record) -> bool:
-#        return True
-
 class MegaHandler(logging.Handler):
     def __init__(self, filename):
         logging.Handler.__init__(self)
@@ -31,7 +26,6 @@ logger_config = {
             'class': 'logging.StreamHandler',
             'level': 'DEBUG',
             'formatter': 'std_format',
-            # 'filters': ['new_filter']
         },
         'file': {
             '()': MegaHandler,
@@ -44,14 +38,7 @@ logger_config = {
         'app_logger': {
             'level': 'DEBUG',
             'handlers': ['console', 'file']
-            # 'propagate': False
         }
     },
-    # 'filters': {
-    #    'new_filter': {
-    #        '()': NewFunctionFilter,
-    #    }
-    # },
-    # 'root': {}   # '': {}
-    # 'incremental': True
+
 }

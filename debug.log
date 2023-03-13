@@ -1,83 +1,1233 @@
-2023-03-09 22:44:41,771 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:21,189 - DEBUG - app_logger - Main:get_station_list:44 - Enter to the get_station_list()
-2023-03-09 22:46:21,189 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:21,189 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:21,391 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:21,391 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:21,592 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:21,592 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:21,790 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:21,790 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:21,998 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:21,998 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:22,206 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:22,207 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:22,397 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:22,397 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:22,618 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:22,618 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:22,806 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:22,806 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:23,004 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:23,005 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:23,196 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:23,197 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:23,394 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:23,394 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:23,581 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:23,581 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:23,730 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:23,730 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:23,893 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:23,893 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:24,054 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:24,054 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:24,252 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:24,252 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:24,443 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:24,444 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:24,633 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:24,633 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:24,784 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:24,784 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:24,935 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:24,935 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:25,085 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:25,085 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:25,255 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:25,256 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:25,436 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:25,436 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:25,665 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:25,666 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:25,851 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:25,851 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:26,044 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:26,045 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:26,270 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:26,270 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:26,473 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:26,473 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:26,640 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:26,641 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:26,801 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:26,801 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:27,020 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:27,021 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:27,220 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:27,220 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:27,372 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:27,372 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:27,531 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:27,531 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:27,684 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:27,685 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:27,879 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:27,879 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:28,071 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:28,071 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:28,270 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:28,270 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:46:28,477 - DEBUG - app_logger - Main:serializer:25 - Enter to the serializer()
-2023-03-09 22:46:28,477 - DEBUG - app_logger - Main:get_address:16 - Enter to the get_address()
-2023-03-09 22:47:15,766 - WARNING - app_logger - Main:get_station_list:44 - Enter to the get_station_list
+2023-03-13 12:27:42,930 - ERROR - app_logger - main:get_stations_list:45 - Error to get data from API 404 Client Error: Not Found for url: https://wegfinder.at/api/v1/statsons
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 43, in get_stations_list
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://wegfinder.at/api/v1/statsons
+2023-03-13 12:28:25,374 - ERROR - app_logger - main:get_stations_list:45 - Error to get data from API 404 Client Error: Not Found for url: https://wegfinder.at/api/v1/statisns
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 43, in get_stations_list
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://wegfinder.at/api/v1/statisns
+2023-03-13 12:34:06,205 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.35486246350276&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.35486246350276&longitude=16.35486246350276
+2023-03-13 12:34:06,516 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.352464109659195&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.352464109659195&longitude=16.352464109659195
+2023-03-13 12:34:06,697 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.361394&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.361394&longitude=16.361394
+2023-03-13 12:34:06,889 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.3740655721665&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.3740655721665&longitude=16.3740655721665
+2023-03-13 12:34:07,236 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.31269962155625&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.31269962155625&longitude=16.31269962155625
+2023-03-13 12:34:07,387 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.31897807121277&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.31897807121277&longitude=16.31897807121277
+2023-03-13 12:34:07,789 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.33772000670433&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.33772000670433&longitude=16.33772000670433
+2023-03-13 12:34:07,980 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.339110008598254&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.339110008598254&longitude=16.339110008598254
+2023-03-13 12:34:08,365 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.343716084957123&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.343716084957123&longitude=16.343716084957123
+2023-03-13 12:34:08,547 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.380315&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.380315&longitude=16.380315
+2023-03-13 12:35:07,305 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.367440223693848&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.367440223693848&longitude=16.367440223693848
+2023-03-13 12:35:07,680 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.361394&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.361394&longitude=16.361394
+2023-03-13 12:35:07,867 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.3740655721665&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.3740655721665&longitude=16.3740655721665
+2023-03-13 12:35:08,058 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.333931&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.333931&longitude=16.333931
+2023-03-13 12:35:08,351 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.31897807121277&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.31897807121277&longitude=16.31897807121277
+2023-03-13 12:35:08,489 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.319898&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.319898&longitude=16.319898
+2023-03-13 12:35:08,627 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.33772000670433&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.33772000670433&longitude=16.33772000670433
+2023-03-13 12:35:09,019 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.311770975589752&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.311770975589752&longitude=16.311770975589752
+2023-03-13 12:35:09,207 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.343716084957123&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=16.343716084957123&longitude=16.343716084957123
+2023-03-13 12:44:27,604 - DEBUG - app_logger - main:get_stations_list:54 - Data from API received successfully
+2023-03-13 12:45:19,405 - ERROR - app_logger - main:get_stations_list:56 - Error to get data from API: 404 Client Error: Not Found for url: https://wegfinder.at/api/v1/stdations
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 53, in get_stations_list
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://wegfinder.at/api/v1/stdations
+2023-03-13 13:07:40,145 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+2023-03-13 13:07:40,439 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:07:40,581 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:07:40,725 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+2023-03-13 13:07:41,177 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:07:41,369 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:07:41,750 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+2023-03-13 13:07:41,961 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:07:42,349 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:07:42,493 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:07:42,876 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+2023-03-13 13:07:43,062 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+2023-03-13 13:07:43,477 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:07:43,673 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:07:44,071 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+2023-03-13 13:07:44,261 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:07:44,633 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:07:44,813 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:07:45,202 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+2023-03-13 13:07:45,413 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:07:45,794 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:07:45,985 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:07:46,124 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:07:46,490 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:07:46,631 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:10:37,328 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+2023-03-13 13:10:37,481 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+2023-03-13 13:10:37,863 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:10:38,039 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+2023-03-13 13:10:38,441 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:10:38,630 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:10:39,004 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+2023-03-13 13:10:39,144 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:10:39,293 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:10:39,682 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:10:39,866 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+2023-03-13 13:10:40,250 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+2023-03-13 13:10:40,447 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+2023-03-13 13:10:40,798 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:10:40,952 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+2023-03-13 13:10:41,101 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+2023-03-13 13:10:41,429 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:10:41,625 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:10:42,020 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+2023-03-13 13:10:42,197 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+2023-03-13 13:10:42,525 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:10:42,668 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:10:42,902 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:10:43,353 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:10:43,551 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:11:26,020 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+2023-03-13 13:11:26,414 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:11:26,596 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:11:26,989 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+2023-03-13 13:11:27,139 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:11:27,528 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+2023-03-13 13:11:27,712 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+2023-03-13 13:11:28,087 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:11:28,283 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:11:28,455 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:11:28,845 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+2023-03-13 13:11:29,047 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+2023-03-13 13:11:29,446 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:11:29,626 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:11:29,926 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+2023-03-13 13:11:30,127 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:11:30,507 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:11:30,704 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:11:31,093 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+2023-03-13 13:11:31,290 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:11:31,473 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:11:31,787 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:11:31,927 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:11:32,080 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:11:32,484 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:12:11,425 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.198527&longitude=16.350918
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.198527&longitude=16.350918
+2023-03-13 13:12:11,624 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+2023-03-13 13:12:12,017 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:12:12,203 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:12:12,576 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+2023-03-13 13:12:12,750 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:12:13,143 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+2023-03-13 13:12:13,321 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+2023-03-13 13:12:13,691 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:12:13,881 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:12:14,270 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+2023-03-13 13:12:14,412 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+2023-03-13 13:12:14,561 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+2023-03-13 13:12:14,858 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:12:15,052 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:12:15,226 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+2023-03-13 13:12:15,611 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:12:15,789 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:12:16,163 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:12:16,353 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+2023-03-13 13:12:16,665 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:12:16,842 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:12:17,015 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:12:17,395 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:12:17,580 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:12:17,965 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:17:38,139 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.198527&longitude=16.350918
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.198527&longitude=16.350918
+2023-03-13 13:17:38,517 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+2023-03-13 13:17:38,696 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:17:38,889 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20234525336636&longitude=16.361115244214943
+2023-03-13 13:17:39,170 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+2023-03-13 13:17:39,312 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:17:39,495 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:17:39,901 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.2251402686428&longitude=16.35486246350276
+2023-03-13 13:17:40,095 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:17:40,419 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:17:40,570 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:17:40,923 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+2023-03-13 13:17:41,112 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+2023-03-13 13:17:41,488 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:17:41,671 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:17:41,846 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+2023-03-13 13:17:42,282 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:17:42,425 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:17:42,763 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:17:43,078 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+2023-03-13 13:17:43,538 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:17:43,887 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:17:44,029 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:17:44,179 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:17:44,478 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:17:44,619 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:33:51,692 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19305411244311&longitude=16.354877331929174
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19305411244311&longitude=16.354877331929174
+2023-03-13 13:33:52,073 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.198527&longitude=16.350918
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.198527&longitude=16.350918
+2023-03-13 13:33:52,263 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.20367562940292&longitude=16.3374263048172
+2023-03-13 13:33:52,657 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21053857454122&longitude=16.344066730857776
+2023-03-13 13:33:52,851 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:33:53,239 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:33:53,432 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:33:53,817 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185165595330574&longitude=16.3740655721665
+2023-03-13 13:33:54,013 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:33:54,403 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:33:54,579 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.185866&longitude=16.319898
+2023-03-13 13:33:54,969 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.212107897872485&longitude=16.339110008598254
+2023-03-13 13:33:55,151 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:33:55,532 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:37:23,175 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22585504&longitude=16.36172588
+2023-03-13 13:37:23,550 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.22274274152399&longitude=16.367440223693848
+2023-03-13 13:37:23,737 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21931648931047&longitude=16.352464109659195
+2023-03-13 13:37:23,887 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.214592&longitude=16.361394
+2023-03-13 13:37:24,179 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.184268&longitude=16.333931
+2023-03-13 13:37:24,331 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.18720003399649&longitude=16.31269962155625
+2023-03-13 13:37:24,521 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.19836424256149&longitude=16.31897807121277
+2023-03-13 13:37:24,986 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.1979628716984&longitude=16.33772000670433
+2023-03-13 13:37:25,310 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.21185884247232&longitude=16.311770975589752
+2023-03-13 13:37:25,461 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.221818861642916&longitude=16.343716084957123
+2023-03-13 13:37:25,612 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:38:09,346 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi2\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi2\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+2023-03-13 13:43:58,651 - ERROR - app_logger - main:get_address:20 - Error to get address: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
+Traceback (most recent call last):
+  File "D:\pyapps\TestTaskApi\main.py", line 18, in get_address
+    response.raise_for_status()
+  File "D:\pyapps\TestTaskApi\venv\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.i-mobility.at/routing/api/v1/nearby_address?latitude=48.237464&longitude=16.380315
